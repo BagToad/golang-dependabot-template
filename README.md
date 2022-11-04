@@ -1,0 +1,1 @@
+# golang-dependabot-template
